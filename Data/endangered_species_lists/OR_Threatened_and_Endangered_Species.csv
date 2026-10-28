@@ -1,0 +1,55 @@
+tabula-OR_Threatened_and_Endangered_Species
+Animal Type,Common Name,Scientific Name,State Status*,Federal Status
+FISH,Bull Trout (range-wide),Salvelinus confluentus,,T
+FISH,Columbia River Chum Salmon,Oncorhynchus keta,,T
+FISH,Green Sturgeon (Southern DPS),Acipenser medirostris,,T
+FISH,Hutton Spring Tui Chub,Siphateles bicolor ssp,T,T
+FISH,Lahontan Cutthroat Trout,Oncorhynchus clarkii henshawi,T,T
+FISH,Lost River Sucker,Deltistes luxatus,E,E
+FISH,Lower Columbia River Chinook Salmon,"Oncorhynchustshawytscha",,T
+FISH,Lower Columbia River Coho Salmon,Oncorhynchus kisutch,E,T
+FISH,Lower Columbia River Steelhead,Oncorhynchus mykiss,,T
+FISH,Middle Columbia River Steelhead,Oncorhynchus mykiss,,T
+FISH,Oregon Coast Coho Salmon,Oncorhynchus kisutch,,T
+FISH,Pacific Eulachon/Smelt (Southern DPS),Thaleichthys pacificus,,T
+FISH,Shortnose Sucker,Chasmistes brevirostris,E,E
+FISH,Snake River Chinook Salmon (Fall),"Oncorhynchustshawytscha",T,T
+FISH,"Snake River Chinook Salmon(Spring/Summer)","Oncorhynchustshawytscha",T,T
+FISH,Snake River Sockeye Salmon,Oncorhynchus nerka,,E
+FISH,Snake River Steelhead,Oncorhynchus mykiss,,T
+FISH,"Southern Oregon/Northern California Coast CohoSalmon",Oncorhynchus kisutch,,T
+FISH,"Upper Columbia River Spring ChinookSalmon","Oncorhynchustshawytscha",,E
+FISH,Upper Columbia River Steelhead,Oncorhynchus mykiss,,T
+FISH,Upper Willamette River Chinook Salmon,"Oncorhynchustshawytscha",,T
+FISH,Upper Willamette River Steelhead,Oncorhynchus mykiss,,T
+FISH,Warner Sucker,Catostomus warnerensis,T,T
+AMPHIBIANS AND REPTILES,Green Sea Turtle,Chelonia mydas,E,T
+AMPHIBIANS AND REPTILES,Leatherback Sea Turtle,Dermochelys coriacea,E,E
+AMPHIBIANS AND REPTILES,Loggerhead Sea Turtle,Caretta caretta,T,E
+AMPHIBIANS AND REPTILES,Olive Ridley Sea Turtle,Lepidochelys olivacea,T,T
+AMPHIBIANS AND REPTILES,Oregon Spotted Frog,Rana pretiosa,,T
+BIRDS,California Brown Pelican,Pelecanus occidentalis californicus,E,
+BIRDS,California Least Tern,Sternula antillarum browni,E,E
+BIRDS,Marbled Murrelet,"Brachyramphusmarmoratus",E,T
+BIRDS,Northern Spotted Owl,Strix occidentalis caurina,T,T
+BIRDS,Short-tailed Albatross,Phoebastria albatrus,E,E
+BIRDS,Streaked Horned Lark,Eremophila alpestris strigata,,T
+BIRDS,Western Snowy Plover,Anarhynchus nivosus nivosus,T,"T(Pacific CoastPopulation DPS)"
+BIRDS,Yellow-billed Cuckoo (Western DPS),Coccyzus americanus,,T
+MAMMALS,Blue Whale,Balaenoptera musculus,E,E
+MAMMALS,Canada Lynx,Lynx canadensis,,T
+MAMMALS,"Columbian White-tailed Deer (ColumbiaRiver DPS)",Odocoileus virginianus leucurus,,T
+MAMMALS,Fin Whale,Balaenoptera physalus,E,E
+MAMMALS,Gray Whale,Eschrichtius robustus,E,
+MAMMALS,Gray Wolf,Canis lupus,,E
+MAMMALS,Humpback Whale,Megaptera novaeangliae,E,E
+MAMMALS,Killer Whale (Southern Resident DPS),Orcinus orca,E,E
+MAMMALS,Kit Fox,Vulpes macrotis,T,
+MAMMALS,North Pacific Right Whale,Eubalaena japonica,E,E
+MAMMALS,Pacific Marten,Martes caurina,,"T(Coastal DPS)"
+MAMMALS,Red Tree Vole (North Oregon Coast DPS),Arborimus longicaudus,,C
+MAMMALS,Sea Otter,Enhydra lutris,T,T
+MAMMALS,Sei Whale,Balaenoptera borealis,E,E
+MAMMALS,Sperm Whale,Physeter macrocephalus,E,E
+MAMMALS,Washington Ground Squirrel,Urocitellus washingtoni,E,
+MAMMALS,Wolverine,Gulo gulo,T,T

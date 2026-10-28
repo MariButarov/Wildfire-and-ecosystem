@@ -1,0 +1,123 @@
+Animal Type,Species,State status,Federal status
+MAMMALS,Fin whale,Endangered,Endangered
+MAMMALS,Sei whale,Endangered,Endangered
+MAMMALS,Blue whale,Endangered,Endangered
+MAMMALS,Humpback whale,Endangered,"Threatened (Mexico DPs), Endangered (Central American DPS)"
+MAMMALS,North Pacific Right Whale,Endangered,Endangered
+MAMMALS,Sperm whale,Endangered,Endangered
+MAMMALS,Killer whale,Endangered,Endangered (Southern Residents only)
+MAMMALS,Gray wolf,Endangered,"Endangered (Federally listed west of north-south line following Highways 97, 17, and 395.)"
+MAMMALS,Grizzly bear,Endangered,Threatened
+MAMMALS,Lynx,Endangered,Threatened
+MAMMALS,Fisher,Endangered,None
+MAMMALS,Western gray squirrel,Endangered,None
+MAMMALS,Cascade red fox,Endangered,None
+MAMMALS,Woodland caribou,Endangered,Endangered
+MAMMALS,Pygmy rabbit,Endangered,Endangered
+MAMMALS,Sandhill Crane,Endangered,None
+MAMMALS,Snowy Plover,Endangered,Threatened
+MAMMALS,Upland Sandpiper*,Endangered,None
+MAMMALS,Marbled Murrelet,Endangered,Threatened
+MAMMALS,Tufted Puffin,Endangered,None
+MAMMALS,Columbian Sharp-tailed Grouse,Endangered,None
+MAMMALS,Greater Sage-grouse,Endangered,None
+MAMMALS,Species,State status,Federal status
+MAMMALS,Ferruginous Hawk,Endangered,None
+MAMMALS,Northern Spotted Owl,Endangered,Threatened
+MAMMALS,Yellow-billed Cuckoo*,Endangered,Threatened
+MAMMALS,Streaked Horned Lark,Endangered,Threatened
+MAMMALS,Oregon Vesper Sparrow,Endangered,90-day finding that listing may be warranted
+REPTILES,Northwestern Pond Turtle,Endangered,90-day finding that listing may be warranted
+REPTILES,Leatherback Sea Turtle,Endangered,Endangered
+REPTILES,Loggerhead Sea Turtle,Endangered,Endangered
+AMPHIBIANS,Oregon Spotted Frog,Endangered,Threatened
+AMPHIBIANS,Northern Leopard Frog,Endangered,None
+INVERTEBRATES,Oregon Silverspot Butterfly*,Endangered,Threatened
+INVERTEBRATES,Island Marble Butterfly,Endangered,Endangered
+INVERTEBRATES,Taylor’s Checkerspot,Endangered,Endangered
+INVERTEBRATES,Mardon Skipper,Endangered,None
+INVERTEBRATES,Pinto Abalone,Endangered,None
+INVERTEBRATES,Species,State status,Federal status
+MAMMALS,Sea Otter,Threatened,None
+MAMMALS,Mazama Pocket Gopher,Threatened,"Threatened. Subspecies: glacialis, pugetensis, tumuli, yelmensis, couchi, louie*, melanops"
+MAMMALS,Columbian White-tailed Deer,Threatened,Threatened
+REPTILES,Green Sea Turtle,Threatened,Threatened
+MAMMALS ,Gray Whale,Sensitive,Endangered. Western North Pacific Stock
+BIRDS,Common Loon,Sensitive,None
+BIRDS,American White Pelican,Sensitive,None
+FISH ,Pygmy Whitefish,Sensitive,None
+FISH ,Margined Sculpin,Sensitive,None
+FISH ,Olympic Mudminnow,Sensitive,None
+AMPHIBIAN,Larch Mountain Salamander,Sensitive,None
+AMPHIBIAN,White-tailed Ptarmigan,Sensitive,Proposed FT
+MAMMALS,Townsend’s Big-eared Bat,Candidate,None
+MAMMALS,Keen’s Myotis Bat,Candidate,None
+MAMMALS,White-tailed Jackrabbit,Candidate,None
+MAMMALS,Black-tailed Jackrabbit,Candidate,None
+MAMMALS,Washington Ground Squirrel,Candidate,None
+MAMMALS,"Townsend’s Ground Squirrel,",Candidate,None
+MAMMALS,Olympic Marmot,Candidate,None
+MAMMALS,Wolverine,Candidate,Threatened
+MAMMALS,Pacific Harbor Porpoise,Candidate,None
+BIRDS,Western Grebe,Candidate,None
+BIRDS,Clark’s Grebe,Candidate,None
+BIRDS,Short-tailed Albatross,Candidate,Endangered
+BIRDS,Northern Goshawk,Candidate,None
+BIRDS,Golden Eagle,Candidate,None
+BIRDS,Cassin’s Auklet,Candidate,None
+BIRDS,Flammulated Owl,Candidate,None
+BIRDS,Burrowing Owl,Candidate,None
+BIRDS,White-headed Woodpecker,Candidate,None
+BIRDS,Black-headed Woodpecker,Candidate,None
+BIRDS,Loggerhead Shrike,Candidate,None
+BIRDS,Slender-billed White-breasted,Candidate,None
+BIRDS,Nuthatch,,
+BIRDS,Sage Thrasher,Candidate,None
+BIRDS,Sagebrush Sparrow,Candidate,None
+REPTILES AND AMPHIBIANS,Sagebrush Lizard,Candidate,None
+REPTILES AND AMPHIBIANS,Common Sharp-tailed Snake,Candidate,None
+REPTILES AND AMPHIBIANS,California Mountain Kingsnake,Candidate,None
+REPTILES AND AMPHIBIANS,Striped Whipsnake,Candidate,None
+REPTILES AND AMPHIBIANS,Dunn’s Salamander,Candidate,None
+REPTILES AND AMPHIBIANS,Van Dyke’s Salamander,Candidate,None
+REPTILES AND AMPHIBIANS,Cascade Torrent Salamander,Candidate,90-day finding that listing may be warranted
+REPTILES AND AMPHIBIANS,Western Toad,Candidate,None
+REPTILES AND AMPHIBIANS,Columbia Spotted Frog,Candidate,None
+REPTILES AND AMPHIBIANS,Rocky Mountain Tailed Frog,Candidate,None
+FISH,Mountain Sucker,Candidate,None
+FISH,Lake Chub,Candidate,None
+FISH,Leopard Dace,Candidate,None
+FISH,Umatilla Dace,Candidate,None
+FISH,River Lamprey,Candidate,None
+FISH,Steelhead – Snake River,Candidate,Threatened
+FISH,Steelhead – Upper Columbia,Candidate,Threatened
+FISH,Species,State status,Federal status
+FISH,Steelhead- Middle Columbia,Candidate,Threatened
+FISH,Steelhead – Lower Columbia,Candidate,Threatened
+FISH,Steelhead – Puget Sound,Candidate,Threatened
+MOLLUSKS,Shortface Lanx (snail),Candidate,None
+MOLLUSKS,Ashy Pebblesnail,Candidate,None
+MOLLUSKS,California Floater,Candidate,None
+MOLLUSKS,Columbia Oregonian (snail),Candidate,None
+MOLLUSKS,Poplar Oregonian (snail),Candidate,None
+MOLLUSKS,Dalles Sideband (snail),Candidate,None
+MOLLUSKS,Blue-gray Taildropper (slug),Candidate,None
+INSECTS,Beller’s Ground Beetle,Candidate,None
+INSECTS,Mann’s Mollusk-eating Ground,Candidate,None
+INSECTS,Beetle,,
+INSECTS,Columbia River Tiger Beetle,Candidate,None
+INSECTS,Hatch’s Click Beetle,Candidate,None
+INSECTS,Columbia Clubtail (dragonfly),Candidate,None
+INSECTS,Pacific Clubtail (dragonfly),Candidate,None
+INSECTS,Sand-verbena Moth,Candidate,None
+INSECTS,Yuma Skipper,Candidate,None
+INSECTS,Makah Copper,Candidate,None
+INSECTS,Chinquapin Hairstreak,Candidate,None
+INSECTS,Johnson’s Hairstreak,Candidate,None
+INSECTS,Juniper Hairstreak,Candidate,None
+INSECTS,Puget Blue,Candidate,None
+INSECTS,Valley Silverspot,Candidate,None
+INSECTS,Silver-bordered Fritillary,Candidate,None
+INSECTS,Monarch,Candidate,Candidate
+INSECTS,Great Arctic,Candidate,None
+INSECTS,Western Bumble Bee,Candidate,90-day finding that listing may be warranted
