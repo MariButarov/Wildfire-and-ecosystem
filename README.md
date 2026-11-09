@@ -6,12 +6,11 @@
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
 This project explores how wildfires may affect bird populations across California, Oregon, and Washington by analyzing historical wildfire records and bird observations. It focuses on comparing bird abundance before and after wildfires to identify changes and regional patterns in biodiversity.
 
 - **Objective:** To evaluate the potential impact of wildfires on bird abundance in California, Oregon, and Washington by comparing bird observations before and after wildfire events and identifying regional and temporal patterns.
-- **Domain:** Environmental
+- **Domain:** Environmental Science
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
 ---
@@ -19,11 +18,12 @@ This project explores how wildfires may affect bird populations across Californi
 ## Project Structure
 
 ```
-├── data/                 # Raw and processed data
+├── data/                # Raw and processed data
 ├── code/                 # Jupyter notebooks and Python scripts
-├── reports/              # Generated reports and visualizations
-├── requirements.txt      # Dependencies
-└── README.md             # Project documentation
+├── reports/
+	wildfire_visualizations.ipynp           # Generated visualizations for wildfire dataset		
+├── requirements.txt     			# Dependencies
+└── README.md            			# Project documentation
 ```
 
 ---
@@ -46,13 +46,19 @@ Bird Observation Data: [eBird](https://ebird.org/home)
 
 The data is cleaned, standardized, and combined using Python and Pandas. The processed datasets are organized by date, state, and region to support comparisons of bird abundance before and after wildfire events.
 
-- **License:** (if applicable)
+- **License:** MIT License
 
 ---
 
 ## Analysis
 
 Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+
+
+Notes on missing values:
+- The wildfire dataset from CALFire included 5 fires with locations labeled in Nevada and Arizona that presumably spread over state lines. For simplicity's sake, these were omitted. 
+- The wildfire dataset from Oregon included some out-of state wildfires for California and Washington that presumably crossed state lines. Because these should also be included in the origin state's records, these were omitted. 
+- If longitude/latitude were not provided for a wildfire, the record was omitted. 
 
 ---
 
@@ -76,6 +82,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used
-- Tutorials or papers referenced
-- Inspiration or collaborators
+This project was created as a final project for DATA 51000 at Seattle University. In addition to course materials, the following articles were referenced. 
+
+
+- Contains some modified code chunks from Geeks for Geeks Geopy Tutorial (https://www.geeksforgeeks.org/python/find-the-location-with-specified-latitude-and-longitude-using-python/)
+
+-
