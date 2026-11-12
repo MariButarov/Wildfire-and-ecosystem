@@ -7,24 +7,32 @@
 ## Project Overview
 
 
-This project explores how wildfires may affect bird populations across California, Oregon, and Washington by analyzing historical wildfire records and bird observations. It focuses on comparing bird abundance before and after wildfires to identify changes and regional patterns in biodiversity.
+This project explores how wildfires may affect bird populations across California, Oregon, and Washington by analyzing historical wildfire records and bird observations. It focuses on comparing bird observations before and after wildfires to identify changes and regional patterns in biodiversity.
 
-- **Objective:** To evaluate the potential impact of wildfires on bird abundance in California, Oregon, and Washington by comparing bird observations before and after wildfire events and identifying regional and temporal patterns.
+- **Objective:** To evaluate the potential impact of wildfires on bird abundance in California, Oregon, and Washington.
 - **Domain:** Environmental Science
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
-
+- **Key Techniques:** Exploratory Data Analysis, Linear Regression
 ---
 
 ## Project Structure
 
 ```
-├── data/                # Raw and processed data
+├── data/  
+│   ├── clean/
+│   |	├── 
+│   |	└──   
+│   ├── raw/           								#Raw and processed data
+│   	├── California_fires_with_counties.csv 					#California county coordinates 
+│   	├── California_Historic_Fire_Perimeters_4388919187494360015.csv		#
+│   	├── DNR_Fire_Statistics_2008_-_Present.csv				#
+│   	└── ODF_Fire_Occurrence_2000-2025_20261019.csv				#
 ├── code/                 # Jupyter notebooks and Python scripts
 ├── reports/
 	wildfire_visualizations.ipynp           # Generated visualizations for wildfire dataset		
 ├── requirements.txt     			# Dependencies
 └── README.md            			# Project documentation
 ```
+
 
 ---
 
